@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#define STEP 100000000
+#define STEP 1000000000
 
 int main() {
 
